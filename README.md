@@ -10,7 +10,7 @@ We designed a benchmark dataset of abnormal object detection for railway inspect
 * The images are mainly collected from 4 real railway lines which opened in different years and are located in various areas. 
 * The main visual dissimilarity depends on that each rail has adopted different types of slabs. 
 * The dataset also involves a rich diversity including rail fastener type, the lighting condition and image gray distribution.
-* Data augmentation methods are used to In order to expand the size of our dataset.
+* Data augmentation methods are used to expand the size of our dataset.
 * The resolution for each image is 800px * 1160px.
 
 # Examples
